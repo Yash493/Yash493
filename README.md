@@ -1,7 +1,7 @@
 [![MasterHead](https://pikbest.com//backgrounds/qiantu-gif-purple-blue-neon-color-strip-dynamic-banner-background_2758296.html")
 <h1 align="center">Hi 👋, I'm Yash</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_11602236.htm#query=cartoon%20programmer&position=0&from_view=keyword&track=ais">
+<img align="right" alt="coding" width="400" src="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash493&label=Profile%20views&color=0e75b6&style=flat" alt="yash493" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash493" alt="yash493" /></a> </p>
