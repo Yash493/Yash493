@@ -1,4 +1,4 @@
-[![MasterHead](https://pikbest.com//backgrounds/qiantu-gif-purple-blue-neon-color-strip-dynamic-banner-background_2758296.html")
+[![MasterHead](https://unsplash.com/photos/vXInUOv1n84)
 <h1 align="center">Hi 👋, I'm Yash</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="">
